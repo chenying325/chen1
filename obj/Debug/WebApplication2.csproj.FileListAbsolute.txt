@@ -1,0 +1,4 @@
+E:\我的项目\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\我的项目\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\我的项目\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\我的项目\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
